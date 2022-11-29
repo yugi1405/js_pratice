@@ -4,4 +4,4 @@ var ans;
 total=parseInt(total);
 needper=parseInt(needper);
 ans=total*needper/100;
-alert(and);
+alert(ans);
